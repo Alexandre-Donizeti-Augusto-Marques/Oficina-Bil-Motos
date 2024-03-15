@@ -296,11 +296,12 @@ header {
     display: flex;
     background-color: #fff;
     width: 20rem;
-    height: 30rem;
+    height: auto;
     border-radius: 15px;
     box-shadow: 10px 10px 20px black;
     margin: 2%;
     justify-content: center;
+    padding: 2px;
 
 
 }
